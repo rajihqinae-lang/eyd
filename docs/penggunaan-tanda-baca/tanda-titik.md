@@ -1,6 +1,6 @@
 ---
 id: 18
-title: Tanda Titik
+title: Tanda Tes
 ---
 
 > 1. Tanda titik digunakan pada akhir kalimat pernyataan.
